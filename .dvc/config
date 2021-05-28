@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = azure://dvc222/uploadfolder222
+    connection_string = DefaultEndpointsProtocol=https;AccountName=testdatalakec;AccountKey=qQPZ7dwLVClAJsR1MOAku1v7VS7WrIAo+RmAr0+fI2LgGcvp/HavZYurjR4eYQjQinSqlO17vldbe75sxeajhg==;EndpointSuffix=core.windows.net

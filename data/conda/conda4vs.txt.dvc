@@ -1,0 +1,5 @@
+outs:
+- md5: 64c68672b3c5e066dc813ca966227354
+  size: 272
+  path: conda4vs.txt
+  isexec: true
